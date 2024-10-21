@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Services App</string>
+    <string name="file1">https://www.cisco.com/web/about/ac79/docs/innov/IoE.pdf</string>
+    <string name="file2">http://www.cisco.com/web/about/ac79/docs/innov/IoE_Economy.pdf</string>
+    <string name="file3">http://www.cisco.com/web/strategy/docs/gov/everything-for-cities.pdf</string>
+    <string name="file4">http://www.cisco.com/web/offer/gist_ty2_asset/Cisco_2014_ASR.pdf</string>
+    <string name="file5">http://www.cisco.com/web/offer/emear/38586/images/Presentations/P3.pdf</string>
+</resources>
